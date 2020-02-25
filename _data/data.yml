@@ -41,7 +41,7 @@ sidebar:
         address: Leher Heerstr. 76b, 28359 Bremen
 
 career-profile:
-    title: Career Profile
+    title: Bewerbung
     summary: |
       Sehr geehrte Damen and Herren,
         suchen Sie einen kompetenten, motivierten Praktikant als PHP Laravel Entwickler mit Erfahrung in der
@@ -109,10 +109,7 @@ projects:
         - name: Laravel-Modules
         - name: Laravel-Datatables
     intro: >
-      Selbständiges Erlernen: 
-      1.or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      
     assignments:
       - title: Laravel Admin Panel
         link: "https://maxlovesweb.github.io/AdminPanel"
