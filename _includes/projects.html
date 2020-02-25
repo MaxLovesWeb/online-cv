@@ -33,6 +33,7 @@
 
     </div><!--//item-->
 	
+	{% if project.tools %}
 	<div class="item">
 		<ul>
 			{% for tool in project.tools %}
@@ -43,6 +44,7 @@
 			{% endfor %}
 		</ul>
 	</div><!--//item-->
+	{% endif %}
   {% endfor %}
 
 </section><!--//section-->

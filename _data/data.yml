@@ -93,7 +93,13 @@ experiences:
  
 projects:
     title: Projects
-    tools: 
+    intro: >
+      
+    assignments:
+      - title: Laravel Admin Panel
+        link: "https://maxlovesweb.github.io/AdminPanel"
+        tagline: "Laravel 6 admin panel for manage Users, Roles, Permissions, Companies, Addresses, Contacts, creating and editing Resume."
+        tools:     
         - name: Composer
         - name: Git
         - name: PHP 7
@@ -109,13 +115,6 @@ projects:
         - name: Laravel Debugbar
         - name: Laravel-Modules
         - name: Laravel-Datatables
-    intro: >
-      
-    assignments:
-      - title: Laravel Admin Panel
-        link: "https://maxlovesweb.github.io/AdminPanel"
-        tagline: "Laravel 6 admin panel for manage Users, Roles, Permissions, Companies, Addresses, Contacts, creating and editing Resume."
-
      
 skills:
     title: Fähigkeiten &amp; Fertigkeiten
