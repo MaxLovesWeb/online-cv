@@ -37,8 +37,8 @@ sidebar:
         
     person-data:
       - birthdate: 15.10.1988
-        birthname: Maxim Koknayev
-        address: Leher Heerstr. 76b, 28359 Bremen
+      - birthname: Maxim Koknayev
+      - address: Leher Heerstr. 76b, 28359 Bremen
 
 career-profile:
     title: Bewerbung
