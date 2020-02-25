@@ -49,115 +49,67 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Bachelor, Innovationsmanagement
+      university: Staatliche Universität für Steuerungssysteme und Radioelektronik, TOMSK (RUS)
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Nicht abgeschlossen
+    - degree: Bachelor, Elektronische Haushaltgeräte
+      university: Staatliche Universität für Steuerungssysteme und Radioelektronik, TOMSK (RUS)
+      time: 2006 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Der ausländische Abschluss entspricht einem deutschen Hochschulabschluss. Er
+        ist vom Niveau her zwischen der Bachelor- und der Masterebene einzuordnen.
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Ingenieur Entwickler
+      time: 06/2016 — 01/2019
+      company: AquaDE GmbH, Bremen (DE)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Entwicklung von Elektromodulen für Whirlpools
+    - role: Betriebsingenieur
+      time: 11/2014 — 05/2016
+      company: Koksche AG, Kokschetau (KAZ)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Für die Herstellung elektrischer Schaltschränke wurde eine
+        Konstruktionsdokumentation entwickelt
+        Erfahrung mit AutoCad, SolidWorks, PCAD
+    - role: Elektronikingenieur
+      time: 08/2012 — 08/2014
+      company: Micran AG, Tomsk (RUS)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Reparatur, Feinregulierung, Kalibrierung von elektronischen
+        Hochfrequenz Messgeräten
+        Unterstützung von Test- und Messgeräten
+ 
 projects:
     title: Projects
+    tools: 
+        - name: Composer
+        - name: Git
+        - name: PHP 7
+        - name: Bootstrap
+        - name: Jquery
+        - name: MySQL
+        - name: PhpUnit
+        - name: Homestead
+        - name: Laravel
+        - name: Blade
+        - name: Admin LTE3
+        - name: Laravel Debugbar
+        - name: Laravel-Modules
+        - name: Laravel-Datatables
     intro: >
-      You can list your side projects or open source libraries in this
+      Selbständiges Erlernen: 
+      1.or open source libraries in this
       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Laravel Admin Panel
+        link: "https://maxlovesweb.github.io/AdminPanel"
+        tagline: "Laravel 6 admin panel for manage Users, Roles, Permissions, Companies, Addresses, Contacts, creating and editing Resume."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+     
 skills:
     title: Skills &amp; Proficiency
 

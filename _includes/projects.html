@@ -15,7 +15,7 @@
       <p>{{ projects.intro }}</p>
   </div><!--//intro-->
   {% endif %}
-
+  
   {% for project in projects.assignments %}
     <div class="item">
 
@@ -32,6 +32,17 @@
       {% endif %}
 
     </div><!--//item-->
+	
+	<div class="item">
+		<ul>
+			{% for tool in project.tools %}
+		
+				{% if tool.name %}
+					<li>Composer</li>
+				{% endif %}
+			{% endfor %}
+		</ul>
+	</div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
