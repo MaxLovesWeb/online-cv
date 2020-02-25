@@ -1,7 +1,7 @@
 <div class="contact-container container-block">
   <ul class="list-unstyled contact-list">
 
-    {% if sidebar.person-data %}
+    
 		{% if sidebar.person-data.birthdate %}
 			<li class="datetime"><i class="fas fa-birthday-cake"></i>
 			  Geburtdaten: {{ sidebar.person-data.birthdate }}
@@ -17,7 +17,6 @@
 			  {{ sidebar.person-data.address }}
 			</li>
 		{% endif %}
-	{% endif %}
 
  
   </ul>
