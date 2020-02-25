@@ -34,6 +34,11 @@ sidebar:
 
       - idiom: English
         level: A2
+        
+    person-data:
+      - birthdate: 15.10.1988
+        birthname: Maxim Koknayev
+        address: Leher Heerstr. 76b, 28359 Bremen
 
 career-profile:
     title: Career Profile
