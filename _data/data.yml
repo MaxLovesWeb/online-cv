@@ -3,9 +3,10 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
-
+    about: false # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: false # set to False if you want education in main section instead of in sidebar
+    interests: false # set to False if you want hide interests in sidebar
+    
     # Profile information
     name: Maxim Kühne
     tagline: PHP Laravel Praktikum
