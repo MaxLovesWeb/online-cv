@@ -43,12 +43,19 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Sehr geehrte Damen and Herren,
+        suchen Sie einen kompetenten, motivierten Praktikant als PHP Laravel Entwickler mit Erfahrung in der
+        Ecommerce Brange?
+        Ich werde ein Mitarbeiter sein, der Problemen nicht aus dem Weg geht, sondern sie mit
+        Entgagemant behebt. Durch meine diversen Arbeitsstellen und auch während meines
+        Studiums sowie die selbstständig angeeigneten Kenntnisse im Bereich der Entwicklung,
+        sammelte ich praktische Erfahrung und Kompetenz.
+        Die Kenntnisse bekam ich bei der Arbeit als Lagermanager, Programmierer und Ingenieur.
+            Ich möchte gerne meine persönlichen Fähigkeiten und Erfahrungen in Ihr Unternehmen
+        einbringen, begrüße „Du“-Mentalität und bin ein begeisterter Fußballfan.
+        
+        Ich freue mich sehr auf ein persönliches Vorstellungsgespräch
+
 education:
     - degree: Bachelor, Innovationsmanagement
       university: Staatliche Universität für Steuerungssysteme und Radioelektronik, TOMSK (RUS)
@@ -93,6 +100,7 @@ projects:
         - name: Jquery
         - name: MySQL
         - name: PhpUnit
+        - name: XDebug
         - name: Homestead
         - name: Laravel
         - name: Blade
@@ -112,7 +120,7 @@ projects:
 
      
 skills:
-    title: Skills &amp; Proficiency
+    title: Fähigkeiten &amp; Fertigkeiten
 
     toolset:
       - name: PHP & Laravel
