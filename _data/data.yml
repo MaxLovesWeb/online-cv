@@ -35,27 +35,23 @@ sidebar:
       - idiom: English
         level: A2
         
-    person-data:
-      - birthdate: 15.10.1988
-      - birthname: Maxim Koknayev
-      - address: Leher Heerstr. 76b, 28359 Bremen
+    
+    birthdate: 15.10.1988
+    birthname: Maxim Koknayev
+    address: Leher Heerstr. 76b, 28359 Bremen
 
 career-profile:
     title: Bewerbung
     summary: |
-      Sehr geehrte Damen and Herren,
-        suchen Sie einen kompetenten, motivierten Praktikant als PHP Laravel Entwickler mit Erfahrung in der
-        Ecommerce Brange?
-        Ich werde ein Mitarbeiter sein, der Problemen nicht aus dem Weg geht, sondern sie mit
-        Entgagemant behebt. Durch meine diversen Arbeitsstellen und auch während meines
-        Studiums sowie die selbstständig angeeigneten Kenntnisse im Bereich der Entwicklung,
-        sammelte ich praktische Erfahrung und Kompetenz.
-        
-        Die Kenntnisse bekam ich bei der Arbeit als Lagermanager, Programmierer und Ingenieur.
-            Ich möchte gerne meine persönlichen Fähigkeiten und Erfahrungen in Ihr Unternehmen
-        einbringen, begrüße „Du“-Mentalität und bin ein begeisterter Fußballfan.
-        
-        Ich freue mich sehr auf ein persönliches Vorstellungsgespräch.
+        Ich bin auf der Suche nach einem Praktikumsplatz als PHP Laravel Entwickler. <br>
+        Mit einem Langzeitpraktikum strebe ich an, meine bisherigen Kenntnisse als Programmierer,
+      Lagermanager und Ingenieur, praktisch anzuwenden und zu vertiefen.
+      Viel mehr aber, in einem Unternehmen Ihrer Klasse als Mitarbeiter Erfahrungen zu sammeln,
+      die mir später bei der Jobsuche helfen, mich richtig einzustufen und zu vermarkten.  <br>
+        Sollte es mir jedoch gelingen, Ihrem Unternehmen so gut zu entsprechen, 
+      dass Sie mich als Angestellten behalten würden, dann wäre es auch mein großer Wunsch. <br>
+        Eine Einladung auf ein persönliches Vorstellungsgespräch würde mich sehr erfreuen. <br>
+        Mit freundlichen Grüßen, Maxim Kühne
 
 education:
     - degree: Bachelor, Innovationsmanagement
