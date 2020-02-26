@@ -42,15 +42,25 @@ sidebar:
 career-profile:
     title: Bewerbung
     summary: |
-        Sehr geehrte Damen and Herren, <br>
-        Ich bin auf der Suche nach einem Praktikumsplatz als PHP Laravel Entwickler. <br>
-        Mit einem Langzeitpraktikum strebe ich an, meine bisherigen Kenntnisse als Programmierer,
+        Sehr geehrte Damen and Herren, <br><br>
+        <p style="text-indent: 30px;" >
+            Ich bin auf der Suche nach einem Praktikumsplatz als PHP Laravel Entwickler.
+        </p>
+        <p style="text-indent: 30px;" >
+            Mit einem Langzeitpraktikum strebe ich an, meine bisherigen Kenntnisse als Programmierer,
         Lagermanager und Ingenieur, praktisch anzuwenden und zu vertiefen.
         Viel mehr aber, in einem Unternehmen Ihrer Klasse als Mitarbeiter Erfahrungen zu sammeln,
-        die mir später bei der Jobsuche helfen, mich richtig einzustufen und zu vermarkten.  <br>
-        Sollte es mir jedoch gelingen, Ihrem Unternehmen so gut zu entsprechen, 
-        dass Sie mich als Angestellten behalten würden, dann wäre es auch mein großer Wunsch. <br>
-        Eine Einladung auf ein persönliches Vorstellungsgespräch würde mich sehr erfreuen. <br>
+        die mir später bei der Jobsuche helfen, mich richtig einzustufen und zu vermarkten.
+        </p>
+        <p style="text-indent: 30px;" >
+            Sollte es mir jedoch gelingen, Ihrem Unternehmen so gut zu entsprechen, 
+        dass Sie mich als Angestellten behalten würden, dann wäre es auch mein großer Wunsch. 
+        </p>
+        <p style="text-indent: 30px;" >
+            Eine Einladung auf ein persönliches Vorstellungsgespräch würde mich sehr erfreuen. 
+        </p>
+        <br>
+        <br>
         Mit freundlichen Grüßen, Maxim Kühne
 
 education:
