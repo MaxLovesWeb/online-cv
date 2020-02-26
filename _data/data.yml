@@ -42,10 +42,10 @@ sidebar:
 career-profile:
     title: Bewerbung
     summary: |
-        Sehr geehrte Damen and Herren, <br><br>
         <p style="text-indent: 30px;" >
-            Ich bin auf der Suche nach einem Praktikumsplatz als PHP Laravel Entwickler.
+        Sehr geehrte Damen and Herren,
         </p>
+        Ich bin auf der Suche nach einem Praktikumsplatz als PHP Laravel Entwickler.
         <p style="text-indent: 30px;" >
             Mit einem Langzeitpraktikum strebe ich an, meine bisherigen Kenntnisse als Programmierer,
         Lagermanager und Ingenieur, praktisch anzuwenden und zu vertiefen.
@@ -59,7 +59,6 @@ career-profile:
         <p style="text-indent: 30px;" >
             Eine Einladung auf ein persönliches Vorstellungsgespräch würde mich sehr erfreuen. 
         </p>
-        <br>
         <br>
         Mit freundlichen Grüßen, Maxim Kühne
 
