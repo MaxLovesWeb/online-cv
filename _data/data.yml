@@ -9,11 +9,11 @@ sidebar:
     
     # Profile information
     name: Maxim Kühne
-    tagline: Praktikum asl PHP Laravel Entwickler
+    tagline: PHP Laravel Entwickler
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: mkuehne.arbeit@gmail.com
+    email: kuehnemaxim@gmail.com
     phone: 01739595406
     website: #maxlovesweb.github.io/AdminPanel/ #do not add http://
     linkedin: 
@@ -26,7 +26,7 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
     
     birthdate: 15.10.1988
-    birthname: Maxim Koknayev
+    birthname: Maxim Koknayev (Kühne)
     address: Leher Heerstr. 76b, 28359 Bremen
 
     languages:
@@ -45,17 +45,20 @@ career-profile:
         
         Sehr geehrte Damen and Herren,
         <p style="text-indent: 30px;" >
-        Ich bin auf der Suche nach einem Praktikumsplatz als PHP Laravel Entwickler.<br>
-        Mit einem Langzeitpraktikum strebe ich an, meine bisherigen Kenntnisse als Programmierer,
-        Lagermanager und Ingenieur, praktisch anzuwenden und zu vertiefen.
-        Viel mehr aber, in einem Unternehmen Ihrer Klasse als Mitarbeiter Erfahrungen zu sammeln,
-        die mir später bei der Jobsuche helfen, mich richtig einzustufen und zu vermarkten.
-        Sollte es mir jedoch gelingen, Ihrem Unternehmen so gut zu entsprechen, 
-        dass Sie mich als Angestellten behalten würden, dann wäre es auch mein großer Wunsch.
+        Und ich suche ein IT-Unternehmen mit langfristigem Erfolg, um in einem Top Team zusammen zu lernen und verschiedene Aufgaben zu lösen.
+        Ich werde ein Mitarbeiter sein, der Problemen nicht aus dem Weg geht, sondern sie mit Entgagemant behebt. 
+        Durch meine diversen Arbeitsstellen und auch während meines Studiums sowie die selbstständig angeeigneten Kenntnisse im Bereich der Entwicklung,
+        sammelte ich praktische Erfahrung und Kompetenz.
+
+        Ich möchte gerne meine persönlichen Fähigkeiten und Erfahrungen in Ihr Unternehmen
+        einbringen, begrüße „Du“-Mentalität und bin ein begeisterter Fußballfan.
+
         <br>
         Eine Einladung auf ein persönliches Vorstellungsgespräch würde mich sehr erfreuen.
         </p>
-        Mit freundlichen Grüßen, Maxim Kühne
+
+        Mit freundlichen Grüßen
+        Maxim Kühne 
 
 education:
     - degree: Bachelor, Innovationsmanagement
@@ -75,6 +78,7 @@ experiences:
       time: 2016 — 2019
       company: AquaDE GmbH, Bremen (DE)
       details: |
+        Entwicklung Ecommerce Platform (PHP)
         Entwicklung von Elektromodulen für Whirlpools
     - role: Betriebsingenieur
       time: 2014 — 2016
